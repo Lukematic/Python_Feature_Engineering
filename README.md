@@ -1,16 +1,17 @@
-# Python Feature Engineering Cookbook
+# Python Feature Engineering
 
 <a href="https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789806311-original.jpeg" alt="Python Feature Engineering Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311), published by Packt.
+This is a repository containing my Jupyter Notebook notes from [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311), a great book published by Packt. 
+
+I loved reading and working through all the sections of the book and, I believe, this is a must for anyone who wants to take their Python Machine Learning skills to the next level. If 80% of actual Machine Learning modeling is spent on data cleaning and feature preparation, then it is a must to master the tools needed for the job and this book is the best resource I have managed to find so far. There is no competition. 
 
 **Over 70 recipes for creating, engineering, and transforming features to build machine learning models**
 
-## What is this book about?
-Feature engineering is invaluable for developing and enriching your machine learning models. In this book, you will work with the best Python tools to streamline your feature engineering pipelines, feature engineering techniques and simplify and improve the quality of your code.
+## Table of Contents
+The following are the 11 chapters in the book. I added the links to my notes to make it easy for me to access individual chapters but to also help those who might be interested in seeing what I put together. 
 
-This book covers the following exciting features: 
-* Simplify your feature engineering pipelines with powerful Python packages
+Chapter 1: [Foreseeing Variable Problems When Building ML Models](https://github.com/harera3/Python_Feature_Engineering/blob/master/01_Foreseeing_Variable_Problems.ipynb)
 * Get to grips with imputing missing values
 * Encode categorical variables with a wide set of techniques
 * Extract insights from text quickly and effortlessly
