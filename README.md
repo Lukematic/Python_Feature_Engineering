@@ -1,6 +1,6 @@
 # Python Feature Engineering
 
-<a href="https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789806311-original.jpeg" alt="Python Feature Engineering Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789806311-original.jpeg" alt="Python Feature Engineering Cookbook" height="450px" align="right"></a>
 
 This is a repository containing my Jupyter Notebook notes from [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311), a great book published by Packt. 
 
