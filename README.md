@@ -11,8 +11,8 @@ I loved reading and working through all the sections of the book and, I believe,
 ## Table of Contents
 The following are the 11 chapters in the book. I added the links to my notes to make it easy for me to access individual chapters but to also help those who might be interested in seeing what I put together. 
 
-* Chapter 1: [Foreseeing Variable Problems When Building ML Models](https://github.com/harera3/Python_Feature_Engineering/blob/master/01_Foreseeing_Variable_Problems.ipynb)
-* Get to grips with imputing missing values
+* Chapter  1: [Foreseeing Variable Problems When Building ML Models](https://github.com/harera3/Python_Feature_Engineering/blob/master/01_Foreseeing_Variable_Problems.ipynb)
+* Chapter  2: [Imputing Missing Data](https://github.com/harera3/Python_Feature_Engineering/blob/master/02_Imputing_Missing_Data.ipynb)
 * Encode categorical variables with a wide set of techniques
 * Extract insights from text quickly and effortlessly
 * Develop features from transactional data and time series data
