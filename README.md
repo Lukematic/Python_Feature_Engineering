@@ -16,11 +16,7 @@ The following are the 11 chapters in the book. I added the links to my notes to 
 * Chapter 3: [Encode categorical variables](https://github.com/harera3/Python_Feature_Engineering/blob/master/03_Encoding_Categorical_Variables.ipynb)
 * Chapter 4: [Transforming Numerical Variables](https://github.com/harera3/Python_Feature_Engineering/blob/master/04_Transforming_Numerical_Variables.ipynb)
 * Chapter 5: [Performing Variable Discretization](https://github.com/harera3/Python_Feature_Engineering/blob/master/05_Performing_Variable_Discretization.ipynb)
-* Extract insights from text quickly and effortlessly
-* Develop features from transactional data and time series data
-* Derive new features by combining existing variables
-* Understand how to transform, discretize, and scale your variables
-* Create informative variables from date and time
+* Chapter 6: [Working with Outliers](https://github.com/harera3/Python_Feature_Engineering/blob/master/06_Working-with_Outliers.ipynb)
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789806313) today!
 
