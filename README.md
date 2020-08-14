@@ -18,6 +18,7 @@ The following are the 11 chapters in the book. I added the links to my notes to 
 * Chapter 5: [Performing Variable Discretization](https://github.com/harera3/Python_Feature_Engineering/blob/master/05_Performing_Variable_Discretization.ipynb)
 * Chapter 6: [Working with Outliers](https://github.com/harera3/Python_Feature_Engineering/blob/master/06_Working-with_Outliers.ipynb)
 * Chapter 7: [Deriving Features from Dates and Time Variable](https://github.com/harera3/Python_Feature_Engineering/blob/master/07_Dates_and_Time_Variables.ipynb)
+* Chapter 8: [Performing Feature Scaling](https://github.com/harera3/Python_Feature_Engineering/blob/master/08_Performing_Feature_Scaling.ipynb)
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789806313) today!
 
