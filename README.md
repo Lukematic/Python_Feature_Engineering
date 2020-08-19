@@ -20,6 +20,7 @@ The following are the 11 chapters in the book. I added the links to my notes to 
 * Chapter 7: [Deriving Features from Dates and Time Variable](https://github.com/harera3/Python_Feature_Engineering/blob/master/07_Dates_and_Time_Variables.ipynb)
 * Chapter 8: [Performing Feature Scaling](https://github.com/harera3/Python_Feature_Engineering/blob/master/08_Performing_Feature_Scaling.ipynb)
 * Chapter 9: [Applying Mathematical Computations to Features](https://github.com/harera3/Python_Feature_Engineering/blob/master/09_Math_Computations_on_Features.ipynb)
+* Chapter 10:[Creating Features with Transactional and Time Series Data](https://github.com/harera3/Python_Feature_Engineering/blob/master/10_Features_Transact_Time_Series.ipynb)
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789806313) today!
 
