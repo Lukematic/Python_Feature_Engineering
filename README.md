@@ -19,6 +19,7 @@ The following are the 11 chapters in the book. I added the links to my notes to 
 * Chapter 6: [Working with Outliers](https://github.com/harera3/Python_Feature_Engineering/blob/master/06_Working-with_Outliers.ipynb)
 * Chapter 7: [Deriving Features from Dates and Time Variable](https://github.com/harera3/Python_Feature_Engineering/blob/master/07_Dates_and_Time_Variables.ipynb)
 * Chapter 8: [Performing Feature Scaling](https://github.com/harera3/Python_Feature_Engineering/blob/master/08_Performing_Feature_Scaling.ipynb)
+* Chapter 9: [Applying Mathematical Computations to Features](https://github.com/harera3/Python_Feature_Engineering/blob/master/09_Math_Computations_on_Features.ipynb)
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789806313) today!
 
