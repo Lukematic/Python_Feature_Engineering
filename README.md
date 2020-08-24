@@ -28,8 +28,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 
-
-## Author: Soledad Galli
-Lead data scientist with more than 10 years of experience in world-class academic institutions and renowned businesses. She has researched, developed, and put into production machine learning models for insurance claims, credit risk assessment, and fraud prevention. Soledad received a Data Science Leaders' award in 2018 and was named one of LinkedIn's voices in data science and analytics in 2019. She is passionate about enabling people to step into and excel in data science, which is why she mentors data scientists and speaks at data science meetings regularly. She also teaches online courses on machine learning in a prestigious Massive Open Online Course platform, which have reached more than 10,000 students worldwide.
+Thanks for leaving a cmment or suggestion. Also feel free to ask any questions
 
 Notes by INNOCENT HARELIMANA
